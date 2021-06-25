@@ -1,2 +1,2 @@
-# react-express-deployment
+# react-deployment
 # weblab-final
